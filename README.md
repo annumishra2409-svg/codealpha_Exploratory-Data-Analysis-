@@ -3,7 +3,6 @@
 ## 📌 Project Overview
 This project performs Exploratory Data Analysis (EDA) on the Titanic dataset using Python. The objective is to understand the dataset, identify missing values, analyze survival patterns, and answer important business questions through data exploration.
 
----
 
 ## 🎯 Objectives
 - Load and explore the Titanic dataset.
@@ -14,7 +13,7 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic dataset usi
 - Compare survival rates by gender and passenger class.
 - Test the hypothesis that women had a higher survival rate than men.
 
----
+
 
 ## 🛠️ Technologies Used
 - Python
@@ -22,7 +21,7 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic dataset usi
 - Matplotlib
 - Seaborn
 
----
+
 
 ## 📂 Dataset
 **Dataset:** Titanic Dataset (`titanic.csv`)
@@ -39,7 +38,7 @@ The dataset contains information about Titanic passengers such as:
 - Fare
 - Embarked Port
 
----
+
 
 ## 📊 Exploratory Data Analysis Performed
 
@@ -75,7 +74,7 @@ The following analyses were performed:
 
 The analysis compares the survival percentages of male and female passengers.
 
----
+
 
 ## 📈 Key Findings
 
@@ -85,7 +84,7 @@ The analysis compares the survival percentages of male and female passengers.
 - The dataset contains missing values in columns such as **Age**, **Cabin**, and **Embarked**.
 - Missing values should be handled before building machine learning models.
 
----
+
 
 ## ▶️ How to Run
 
@@ -103,7 +102,7 @@ pip install pandas matplotlib seaborn
 python titanic_eda.py
 ```
 
----
+
 
 ## 📁 Project Structure
 
@@ -114,7 +113,7 @@ Titanic-EDA/
 │── README.md
 ```
 
----
+
 
 ## 📚 Libraries Used
 
@@ -123,13 +122,12 @@ Titanic-EDA/
 - seaborn
 - os
 
----
+
 
 ## 📌 Conclusion
 
 This project demonstrates how Exploratory Data Analysis (EDA) helps in understanding a dataset before applying machine learning techniques. It highlights survival trends based on gender and passenger class while identifying missing values and data quality issues that require preprocessing.
 
----
 
 ## 👩‍💻 Author
 
