@@ -1,4 +1,4 @@
-#TASK 2 - Titanic EDA
+#TASK 1 - Titanic EDA
 
 import pandas as pd
 import os
